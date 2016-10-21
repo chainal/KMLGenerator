@@ -1,0 +1,2 @@
+# KMLGenerator
+用于GoogleEarth的KML文件生成器，从文本文件中寻找坐标转换为KML文件
